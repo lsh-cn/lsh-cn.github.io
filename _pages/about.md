@@ -29,7 +29,8 @@ My research interest includes speech synthesis, neural machine translation and a
 
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the MLNLP community in 2021. I am honored to be one of the chairs of the MLNLP committee.
 
-If you like the template of this homepage, welcome to star and fork my open-sourced template version AcadHomepage[https://github.com/RayeRen/acad-homepage.github.io]
+If you like the template of this homepage, welcome to star and fork my open-sourced template version AcadHomepage<img src="https://img.shields.io/github/stars/lsh-cn/lsh-cn.github.io?style=social" alt="">
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
