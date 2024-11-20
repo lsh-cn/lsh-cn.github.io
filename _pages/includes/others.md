@@ -7,13 +7,12 @@
 
 # 💻 Internships
 - *2021.06 - 2023.09*,[Beijing BoChuang-Tech Co.,Ltd, Beijing.](https://www.bbcpetro.com/)
-
-
-# 💻 StarUps
+ 
+#  <img src='../../images/others/Phoenixtech.jpg' style='width: 3em;'> Startups
 - *2023.11 - 2024.03*,Beijing Feiyi Lingxiao Information Technology Co., Ltd., Founder.
 - *2024.04 - 2024.11*,Ningbo Phoenixtech Technology Co.,Ltd, Founder.
 ## Our Fundings
-* Fund support: Xbotpark Seed-stage Exploration Fund
+- Fund support: Xbotpark Seed-stage Exploration Fund
     Funding $500000 
     Institutional investor：
     Project Leader & Product Manager (2024)
