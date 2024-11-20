@@ -11,13 +11,11 @@
 First Prize in the UAV Express Delivery Group, 2023 China Robot Competition  
 - **2023.12.04**: [[*3DDS*]](https://3dds.3ddl.net/)First Prize in UAV Design, 16th National 3D Digital Innovation Competition  
 - **2023.05.01**: [[*ROBOCUP*]](http://crc.drct-caa.org.cn/)Third Place in the Underwater Operations Group, 2022 China Robot Competition (Top 5%)  
----
 - **2022.07.01**: [[*CS4C*]](https://jsjds.blcu.edu.cn/index.htm)Second Prize in Artificial Intelligence Applications, 15th China College Students Computer Design Competition  
 - **2023.11.30**: [[*ISCC*]](https://www.isclab.org.cn/)Second Prize in Intelligent Plant Protection, 20th ISCC Information Security and Countermeasures Technology Competition  
 - **2023.11.30**: [[*ISCC*]](https://www.isclab.org.cn/)Second Prize in Intelligent Irrigation, 20th ISCC Information Security and Countermeasures Technology Competition  
 - **2022.07.01**: [[*CDEC*]](https://www.cdec.org.cn/)Second Prize in the 16th China Good Creativity and Digital Art Design Competition  
 - **2023.07.01**: [[*CRAIC*]](https://www.caairobot.com/)Second Prize in the Mini Autonomous UAV Competition, 25th China Robotics and Artificial Intelligence Competition  
----
 - **2022.07.01**: [[*CS4C*]](https://jsjds.blcu.edu.cn/index.htm)Third Prize in Microlecture and Teaching Assistance, 15th China College Students Computer Design Competition  
 - **2022.07.01**: [[*CS4C*]](https://jsjds.blcu.edu.cn/index.htm)Third Prize in IoT Applications, 15th China College Students Computer Design Competition  
 - **2022.08.01**: [[*CRAIC*]](https://www.caairobot.com/)Third Prize in Elderly Service Robot Competition, 24th China Robotics and Artificial Intelligence Competition  
@@ -32,11 +30,9 @@ First Prize in the UAV Express Delivery Group, 2023 China Robot Competition
 - **2023.07.01**: [[*CRAIC*]](https://www.caairobot.com/)First Prize in the Smart Agriculture Track, 25th China Robotics and Artificial Intelligence Competition  
 - **2022.10.01**: [[*MCM*]](https://www.mcm.edu.cn/)First Prize in the "Higher Education Society Cup," National Undergraduate Mathematical Modeling Competition  
 - **2022.08.01**: [[*CRAIC*]](https://www.caairobot.com/)First Prize in the Smart Agriculture Track, 24th China Robotics and Artificial Intelligence Competition  
----
 - **2022.08.01**: [[*OSTC*]](http://opt.zju.edu.cn/gdjs/main.htm)Second Prize in the Optoelectronics Design Competition  
 - **2022.08.01**: [[*QIBEBT*]](http://energy.qibebt.ac.cn/eneco/contribution/index.html#/index)Second Prize in the Beijing Energy Conservation Competition  
 - **2022.08.01**:[[*3DDS*]](https://3dds.3ddl.net/) Second Prize in the National 3D Digital Innovation Design Competition  
----
 - **2022.08.01**: [[*CRAIC*]](https://www.caairobot.com/)Third Prize in Mini Autonomous UAV Flying Competition, 24th China Robotics and Artificial Intelligence Competition  
 - **2022.08.01**: [[*CRAIC*]](https://www.caairobot.com/)Third Prize in the AI Innovation Competition, 24th China Robotics and Artificial Intelligence Competition  
 - **2022.08.01**:[[*CRAIC*]](https://www.caairobot.com/) Third Prize in the Intelligent Cultural Creativity Competition, 24th China Robotics and Artificial Intelligence Competition  
