@@ -1,14 +1,12 @@
 # 🎖 Honors and Awards
 ## Honors
-- **2022.10**: National Encouragement Scholarship (¥5,000)  
-- **2022.05**: Excellent League Member
-- **2021.10**: National Encouragement Scholarship (¥5,000)  
-- **2021.10**: Merit Student
-## Awards
-### National-Level Awards
+- **2022.10**: National Encouragement Scholarship (¥5,000).
+- **2022.05**: Excellent League Member.
+- **2021.10**: National Encouragement Scholarship (¥5,000). 
+- **2021.10**: Merit Student.
+## National-Level Awards
 - **2023.09.16**: [[*ROBOCOM*]](https://robocom.com.cn/)Runner-up in the Aerial Reconnaissance Project, 2023 RoboCom Robot Developer Contest (Top 2%)  
-- **2023.10.25**: [[*ROBOCUP*]](http://crc.drct-caa.org.cn/)
-First Prize in the UAV Express Delivery Group, 2023 China Robot Competition  
+- **2023.10.25**: [[*ROBOCUP*]](http://crc.drct-caa.org.cn/)First Prize in the UAV Express Delivery Group, 2023 China Robot Competition  
 - **2023.12.04**: [[*3DDS*]](https://3dds.3ddl.net/)First Prize in UAV Design, 16th National 3D Digital Innovation Competition  
 - **2023.05.01**: [[*ROBOCUP*]](http://crc.drct-caa.org.cn/)Third Place in the Underwater Operations Group, 2022 China Robot Competition (Top 5%)  
 - **2022.07.01**: [[*CS4C*]](https://jsjds.blcu.edu.cn/index.htm)Second Prize in Artificial Intelligence Applications, 15th China College Students Computer Design Competition  
@@ -24,7 +22,7 @@ First Prize in the UAV Express Delivery Group, 2023 China Robot Competition
 - **2022.08.01**: [[*NECCS*]](http://www.jienengjianpai.org/)Third Prize in the 15th National College Student Energy Conservation and Emission Reduction Competition (Six Hundred Light Years Cup)  
 - **2023.07.01**: [[*CRAIC*]](https://www.caairobot.com/)Third Prize in the Collaborative Unmanned Track, 25th China Robotics and Artificial Intelligence Competition  
 - **2021.05.01**: [[*QIBEBT*]](http://energy.qibebt.ac.cn/eneco/contribution/index.html#/index)Third Prize in the 7th National College Student Energy Economics and Academic Creativity Competition  
-### Provincial/Institutional-Level Awards
+## Provincial/Institutional-Level Awards
 - **2023.06.15**: [[*Challenge Cup*]](https://www.tiaozhanbei.net/)Gold Award in the "Challenge Cup" Capital College Students Academic Science and Technology Competition  
 - **2023.07.01**: [[*CS4C*]](https://jsjds.blcu.edu.cn/index.htm)First Prize in Artificial Intelligence Applications, 16th China College Students Computer Design Competition  
 - **2023.07.01**: [[*CRAIC*]](https://www.caairobot.com/)First Prize in the Smart Agriculture Track, 25th China Robotics and Artificial Intelligence Competition  

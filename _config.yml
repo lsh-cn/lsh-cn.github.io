@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shaohua Li"
-description              : # ""
+description              : "Pain is temporary, a doctoral degree is eternal."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : ""
+  cv               : "https://lsh-cn.github.io/file/cv-zh.pdf"
 
 
 # Reading Files
