@@ -12,16 +12,16 @@
 - *2024.04 - 2024.11*,Ningbo Phoenixtech Technology Co.,Ltd, Founder.
 
 # 💡 Our Fundings
-* Xbotpark Seed-stage Exploration Fund
-  * **Funding:** $500,000  
-  * **Institutional Investor:** Xbotpark
+*Xbotpark Seed-stage Exploration Fund*
+* **Funding:** ￥500,000  
+* **Institutional Investor:** Xbotpark
 
-* Innovation and Entrepreneurship Fund for College Students (2024–2026)
-  * **Funding:** $50,000  
-  * **Sponsor:** China University of Geosciences, Beijing   
+*Innovation and Entrepreneurship Fund for College Students (2024–2026)*
+* **Funding:** ￥50,000  
+* **Sponsor:** China University of Geosciences, Beijing   
 
-* Innovation and Entrepreneurship Fund for College Students (2022–2023)
-  * **Funding:** $10,000  
-  * **Sponsor:** China University of Geosciences, Beijing  
+*Innovation and Entrepreneurship Fund for College Students (2022–2023)*
+* **Funding:** ￥10,000  
+* **Sponsor:** China University of Geosciences, Beijing  
 
 
