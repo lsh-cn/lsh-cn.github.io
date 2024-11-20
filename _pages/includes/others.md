@@ -8,21 +8,23 @@
 # 💻 Internships
 - *2021.06 - 2023.09*,[Beijing BoChuang-Tech Co.,Ltd, Beijing.](https://www.bbcpetro.com/)
  
-#  <img src='../../images/others/Phoenixtech.jpg' style='width: 3em;'> Startups
+#  <img src='../../images/others/Phoenixtech.jpg' style='width: 4em;'> Startups
 - *2023.11 - 2024.03*,Beijing Feiyi Lingxiao Information Technology Co., Ltd., Founder.
 - *2024.04 - 2024.11*,Ningbo Phoenixtech Technology Co.,Ltd, Founder.
 ## Our Fundings
-- Fund support: Xbotpark Seed-stage Exploration Fund
-    Funding $500000 
-    Institutional investor：
-    Project Leader & Product Manager (2024)
-* Fund support: Innovation and Entrepreneurship Fund for College Students
-    Funding $50000 
-    Sponsor：China University of Geosciences, Beijing
-    Project Leader & Product Manager (2024-2025)
-* Fund support: Innovation and Entrepreneurship Fund for College Students
-    Funding $10000 
-    Sponsor：China University of Geosciences, Beijing
-    Project Leader & Product Manager (2022-2023)
+#### Xbotpark Seed-stage Exploration Fund
+- **Funding:** $500,000  
+- **Institutional Investor:** Xbotpark  
+- **Role:** Project Leader & Product Manager  
+- **Year:** 2024  
+---
+#### Innovation and Entrepreneurship Fund for College Students (2024–2026)
+- **Funding:** $50,000  
+- **Sponsor:** China University of Geosciences, Beijing  
+- **Role:** Project Leader & Product Manager  
+---
+#### Innovation and Entrepreneurship Fund for College Students (2022–2023)
+- **Funding:** $10,000  
+- **Sponsor:** China University of Geosciences, Beijing  
+- **Role:** Project Leader & Product Manager  
 
-## PhoenixTch Team
