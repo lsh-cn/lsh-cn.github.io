@@ -39,6 +39,5 @@
 - **2022.08.01**: [[*CRAIC*]](https://www.caairobot.com/)Third Prize in the Robotics Innovation Competition, 24th China Robotics and Artificial Intelligence Competition  
 - **2021.10.01**:[[*ROBOCOM*]](https://robocom.com.cn/) Third Prize in Deepwater Oil Pipeline Inspection Technology Challenge (2021)  
 - **2022.10.01**:[[*ROBOCOM*]](https://robocom.com.cn/)Third Prize in Deepwater Oil Pipeline Inspection Technology Challenge (2022)  
-
+- **2019.10.01**:<img src='../../images/honers/ben.jpeg'  style='width: 1em;'>[[*ICHO*]](https://www.chemsoc.org.cn/notice/a3590.html) First Prize in the 33nd Olympic Chemistry Competition in Shanxi Province (2019)  
 - **2018.10.01**:<img src='../../images/honers/ben.jpeg'  style='width: 1em;'>[[*ICHO*]](https://img.chemsoc.org.cn/web/2019/03/06-%E5%B1%B1%E8%A5%BF%E7%9C%81%20%E7%AC%AC32%E5%B1%8A%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%EF%BC%88%E5%88%9D%E8%B5%9B%EF%BC%89%E8%8E%B7%E5%A5%96%E5%AD%A6%E7%94%9F%E5%90%8D%E5%8D%95.pdf)Third Prize in the 32nd Olympic Chemistry Competition in Shanxi Province (2018)  
-- **2019.10.01**:<img src='../../images/honers/ben.jpeg'  style='width: 1em;'>[[*ICHO*]](https://img.chemsoc.org.cn/web/2019/03/06-%E5%B1%B1%E8%A5%BF%E7%9C%81%20%E7%AC%AC32%E5%B1%8A%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%EF%BC%88%E5%88%9D%E8%B5%9B%EF%BC%89%E8%8E%B7%E5%A5%96%E5%AD%A6%E7%94%9F%E5%90%8D%E5%8D%95.pdf) First Prize in the 3nd Olympic Chemistry Competition in Shanxi Province (2018)  
