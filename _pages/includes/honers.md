@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
 ## Honors
 - **2022.10**: National Encouragement Scholarship (¥5,000).
 - **2022.05**: Excellent League Member.
