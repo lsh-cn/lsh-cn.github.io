@@ -19,6 +19,4 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
-<div id="clustrmaps-container" style="width:300px;height:200px;">
-    <script type="text/javascript" id="clustr_globe" src="//clustrmaps.com/globe.js?d=uHTHSFJYgypofzTves2fInjl_o4b4-MQZWmHFaIB1L0"></script>
-</div>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uHTHSFJYgypofzTves2fInjl_o4b4-MQZWmHFaIB1L0&cl=ffffff&w=a"></script>
