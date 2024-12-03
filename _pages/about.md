@@ -19,4 +19,6 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=uHTHSFJYgypofzTves2fInjl_o4b4-MQZWmHFaIB1L0"></script>
+<div id="clustrmaps-container" style="width:300px;height:200px;">
+    <script type="text/javascript" id="clustr_globe" src="//clustrmaps.com/globe.js?d=uHTHSFJYgypofzTves2fInjl_o4b4-MQZWmHFaIB1L0"></script>
+</div>
