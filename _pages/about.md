@@ -18,3 +18,5 @@ redirect_from:
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=uHTHSFJYgypofzTves2fInjl_o4b4-MQZWmHFaIB1L0"></script>
