@@ -47,7 +47,10 @@
   @include breakpoint($medium) {
     display: block !important;
   }
-  display: none !important;
+  img, a {
+    vertical-align:middle;
+  }
+ // display: none !important;
 }
 
 .masthead__menu-item {
